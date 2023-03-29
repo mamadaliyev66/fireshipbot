@@ -2,7 +2,7 @@ from aiogram import Dispatcher , Bot,executor,types
 from aiogram.types import reply_keyboard,ReplyKeyboardMarkup
 from base import part_1,part_2,basic_concepts,advanced_concepts,algorithms,dream_app,animal_farm
 from base import advanced_techniques,example_models,bonus,intro,core_concepts,relational_data_modeling
-bot_token="5893385203:AAFTHHabQx_8Dpg8Q3tELFTcsUxXlRRGCiA"
+bot_token="6166494743:AAE7Op1Ij5oM_cWVtoDW6OiXZC5_XCNakEE"
 
 bot=Bot(token=bot_token)
 dp=Dispatcher(bot)
